@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id> https://kelpstrewn.github.io/blog</id>
+    <id> https://kelpstrewn.com/blog</id>
     <title>Kelp Strewn Rock Blog</title>
     <updated>2023-06-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href=" https://kelpstrewn.github.io/blog"/>
+    <link rel="alternate" href=" https://kelpstrewn.com/blog"/>
     <subtitle>Kelp Strewn Rock Blog</subtitle>
-    <icon> https://kelpstrewn.github.io/img/favicon.ico</icon>
+    <icon> https://kelpstrewn.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Comments]]></title>
-        <id> https://kelpstrewn.github.io/blog/2023/06/19/p05/comments</id>
-        <link href=" https://kelpstrewn.github.io/blog/2023/06/19/p05/comments"/>
+        <id> https://kelpstrewn.com/blog/2023/06/19/p05/comments</id>
+        <link href=" https://kelpstrewn.com/blog/2023/06/19/p05/comments"/>
         <updated>2023-06-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Most people looking at this will have my email address and/or can talk to me direct about what they know of the Curhams.]]></summary>
         <content type="html"><![CDATA[<p>Most people looking at this will have my email address and/or can talk to me direct about what they know of the Curhams. </p><p>This website is able to be accessed by everyone everywhere though, so there may be people who will find it and who may have knowledge that will make this better. Or you may just wish to comment generally. </p><p>Please create a free github login if you don't already have one. No credit card details are required. Once that is done logging in and commenting is easy. </p><p>I have also enabled commenting on some of the  miscellaneous blog posts, on beekeeping and on mapping.</p>]]></content>
@@ -20,8 +20,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Mapping land]]></title>
-        <id> https://kelpstrewn.github.io/blog/2023/06/16/p03/mapping</id>
-        <link href=" https://kelpstrewn.github.io/blog/2023/06/16/p03/mapping"/>
+        <id> https://kelpstrewn.com/blog/2023/06/16/p03/mapping</id>
+        <link href=" https://kelpstrewn.com/blog/2023/06/16/p03/mapping"/>
         <updated>2023-06-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is an investigation of mapping processes and links to my father's work as a geographer. This came out of a need to map a 100 acre bush block in the Waitakere ranges, west of Auckland.  I then moved to a flatter more farm like site, where easy public access is available. I made both a 3d map, useful for presentation purposes, and available as a downloadable model, and more traditional 2d maps, spatially linked to data and useful for ongoing management.]]></summary>
         <content type="html"><![CDATA[<p>This is an investigation of mapping processes and links to my father's work as a geographer. This came out of a need to map a 100 acre bush block in the Waitakere ranges, west of Auckland.  I then moved to a flatter more farm like site, where easy public access is available. I made both a 3d map, useful for presentation purposes, and available as a downloadable model, and more traditional 2d maps, spatially linked to data and useful for ongoing management.</p><div class="resp-container"><iframe class="resp-iframe" src="https://kelpstrewn.com/3dhop/ambury.html" scrolling="no"></iframe></div><p>3d model Ambury Farm Park, allows measurements and section cutting.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="results">Results<a href="#results" class="hash-link" aria-label="Direct link to Results" title="Direct link to Results">​</a></h2><p>Here are some examples of output.</p><div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/14569331d33841738761c0b3a05d282a/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div><p>Sketchfab presentation model 100 acre bush block.</p><div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/554925f67fcf40fe985d8eca47d311b7/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>*Sketchfab presentation model Ambury Farm.<p><img loading="lazy" src="/assets/images/am02-86ef0388847c14a0b86465e70b25f6fd.jpg" width="920" height="741" class="img_ev3q">
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Building bee boxes]]></title>
-        <id> https://kelpstrewn.github.io/blog/2023/06/12/p02/building_hiveware</id>
-        <link href=" https://kelpstrewn.github.io/blog/2023/06/12/p02/building_hiveware"/>
+        <id> https://kelpstrewn.com/blog/2023/06/12/p02/building_hiveware</id>
+        <link href=" https://kelpstrewn.com/blog/2023/06/12/p02/building_hiveware"/>
         <updated>2023-06-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Introduction]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2><p>This post is about building hiveware for beekeeping. It is historical, as due to time constraints I am not keeping bees at present. </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-wood">Use wood<a href="#use-wood" class="hash-link" aria-label="Direct link to Use wood" title="Direct link to Use wood">​</a></h2><p>This is because of a number of overlapping concerns.
@@ -49,8 +49,8 @@ Assembled frame.
     </entry>
     <entry>
         <title type="html"><![CDATA[Omphalos]]></title>
-        <id> https://kelpstrewn.github.io/blog/2023/06/05/p01/ -omphalos</id>
-        <link href=" https://kelpstrewn.github.io/blog/2023/06/05/p01/ -omphalos"/>
+        <id> https://kelpstrewn.com/blog/2023/06/05/p01/ -omphalos</id>
+        <link href=" https://kelpstrewn.com/blog/2023/06/05/p01/ -omphalos"/>
         <updated>2023-06-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The mode of writing of the family memoir and history presented here is not original. Tolstoy is deliberately quoted but unackowledged, and the whole is considered using ideas drawn from Edmund Gosse, Father and Son. As well, I have always been fascinated  by Phillip Henry Gosse's Omphalos Theory. A learned article is here]]></summary>
         <content type="html"><![CDATA[<p>The mode of writing of the family memoir and history presented here is not original. Tolstoy is deliberately quoted but unackowledged, and the whole is considered using ideas drawn from Edmund Gosse, Father and Son. As well, I have always been fascinated  by Phillip Henry Gosse's Omphalos Theory. A learned article is <a href="https://philarchive.org/archive/CAWEAT-4" target="_blank" rel="noopener noreferrer">here</a></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="omphalos-theory">Omphalos Theory<a href="#omphalos-theory" class="hash-link" aria-label="Direct link to Omphalos Theory" title="Direct link to Omphalos Theory">​</a></h2><p>The Theory was developed in support of a biblical instant of creation, to refute Darwin's evolution. The Theory is that Adam was created with a navel. He didn't need a navel as he was created not born. This was extended to include all of nature. Natural objects must be created with a history, or at least with the appearance of one. A natural object can't be a natural object without an apparent history. A tree would not be a tree without rings, which indicate its age, and even a newly created tree must have rings.</p><p><img loading="lazy" src="/assets/images/Albrecht_Dürer,_Adam_and_Eve,_1504,_Engraving-1-4f595b3b4a39b92ad88d72e60f9144dc.webp" width="629" height="800" class="img_ev3q">
@@ -63,8 +63,8 @@ Assembled frame.
     </entry>
     <entry>
         <title type="html"><![CDATA[A yacht race on the Waitemata]]></title>
-        <id> https://kelpstrewn.github.io/blog/2023/06/01/p04/race</id>
-        <link href=" https://kelpstrewn.github.io/blog/2023/06/01/p04/race"/>
+        <id> https://kelpstrewn.com/blog/2023/06/01/p04/race</id>
+        <link href=" https://kelpstrewn.com/blog/2023/06/01/p04/race"/>
         <updated>2023-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This one is aboy a shared family interest in racing sailboats. TWC crewed for Peter Smith on Moana.]]></summary>
         <content type="html"><![CDATA[<p>This one is aboy a shared family interest in racing sailboats. TWC crewed for Peter Smith on Moana. </p><p>Richmond winter series non spinnaker. </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-boat">The Boat<a href="#the-boat" class="hash-link" aria-label="Direct link to The Boat" title="Direct link to The Boat">​</a></h2><p>There were two mrx class boats in the race</p><p><img loading="lazy" src="/assets/images/race01-5b9638e838007efd68e1905443b58d0e.jpg" width="800" height="600" class="img_ev3q"></p><p> Relaxed looking crews! The weather forecast had been under constant revision the last few days. Four days previous it was fresh, 20 knots plus. The front seems to have gone through early. Actuality is soft conditions, 3 to 10 knots from the Northwest ,warm and pleasant.
